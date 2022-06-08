@@ -1,0 +1,2 @@
+python main.py --ssl --server smtp.mail.ru:25 -t katya.panteleeva.2018@inbox.ru -f katya.panteleeva.2018@inbox.ru --subject pictures --auth -v -d .\test
+
